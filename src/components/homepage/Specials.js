@@ -1,7 +1,8 @@
 const Specials = () => {
 
   return (
-    <div>x</div>
+    <>
+    </>
   );
 };
 

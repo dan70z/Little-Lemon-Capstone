@@ -1,7 +1,8 @@
 const Testimonials = () => {
 
   return (
-    <div>x</div>
+    <>
+    </>
   );
 };
 
